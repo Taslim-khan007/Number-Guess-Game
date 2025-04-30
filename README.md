@@ -4,9 +4,7 @@ Build a simple employee management system using HTML, CSS, and JavaScript. It us
 
 # Features
 
-Add Employee
-Edit Employee
-Delete Employee
+<p>Add Employee <br> Edit Employee <br> Delete Employee</p>
 
 # ScreenShot
 
