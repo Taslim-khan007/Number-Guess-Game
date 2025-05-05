@@ -8,6 +8,9 @@
  4. If your guess is too high or too low, the game will give you hints.
  5. After 5 chances or if you guess the correct number, you can click **Restart** to start again.
 
+# 🔗 Demo
+You can check out the live demo of the project here: [Number Guessing Game](https://taslim-khan007.github.io/Number-Guess-Game/)
+
  # 🛠️ Tech Stack
  - **HTML** - Structure and content of the page.
  - **CSS** - Styling with responsive design.
