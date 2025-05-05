@@ -27,14 +27,16 @@
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/............git
+   git clone https://github.com/Taslim-khan007/Number-Guess-Game.git
    ```
 2. Open `index.html` in your browser to play the game.
 
 # 🗣️ Connect with Me
-- LinkedIn: [Taslim Khan](https://www.linkedin.com/in/taslim-khan-290455336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- GitHub: [Taslim-khan007](https://github.com/Taslim-khan007)
-- E-Mail: [taslimkhan06162@gmail.com]
-
+<ul>
+  <li><a href="https://www.linkedin.com/in/taslim-khan-290455336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a></li>
+  <li><a href="https://github.com/Taslim-khan007">Github</a></a></li>
+  <li><a href="taslimkhan06162@gmail.com">Email</a></li>
+  <li><a href="+919508489651">Phone</a></li>
+</ul>
 
 
