@@ -1,18 +1,40 @@
-# Employee Management System
+# 🎮 Number Guessing Game in JavaScript
+ This is a simple **Number Guessing Game** built using **HTML**, **CSS**, and **JavaScript**. In this game, users have 5 chances to guess a random number between 1 and 100.
 
-Build a simple employee management system using HTML, CSS, and JavaScript. It uses local storage to store the data. 
+ # 📝 How to Play
+ 1. Enter a number between 1 and 100.
+ 2. Click **guess** to see if your guess is correct.
+ 3. You have 5 chances to guess the correct number.
+ 4. If your guess is too high or too low, the game will give you hints.
+ 5. After 5 chances or if you guess the correct number, you can click **Restart** to start again.
 
-# Features
+ # 🛠️ Tech Stack
+ - **HTML** - Structure and content of the page.
+ - **CSS** - Styling with responsive design.
+ - **JavaScript** - Game logic and interactivity.
 
-<p>Add Employee <br> Edit Employee <br> Delete Employee</p>
+# 🌟 Features
+ - User has 5 chances to guess the random number.
+ - The app indicates whether the guess is too high or too low.
+ - After 5 wrong attempts, the user loses the game and can restart.
+ - Responsive design, compatible with mobile devices.
 
-# ScreenShot
+ # 📷 Screenshot
+ ![alt text](<Screenshot 2025-05-06 013807.png>)
 
-![image](https://user-images.githubusercontent.com/61316762/201523568-51e1ed64-26ab-43e6-b34c-a1687c8097d3.png)
+ # 🚀 Getting Started
+ To run this project locally:
 
-## How to use
-1. Clone the repository
+1. Clone the repository:
+```bash
+   git clone https://github.com/yourusername/............git
+   ```
+2. Open `index.html` in your browser to play the game.
 
-2. Open the `index.html` file in your browser
+# 🗣️ Connect with Me
+- LinkedIn: [Taslim Khan](https://www.linkedin.com/in/taslim-khan-290455336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [Taslim-khan007](https://github.com/Taslim-khan007)
+- E-Mail: [taslimkhan06162@gmail.com]
 
-3. Add, edit, and delete employees
+
+
